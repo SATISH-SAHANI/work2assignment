@@ -4,3 +4,59 @@
 .container, .content {
 width: 100%;
 }
+header {
+    background-color: rgb(187, 18, 221);
+    width: 100%;
+    height: 150px;
+
+}
+#play{
+    float: right;
+    margin: 70px 20px;
+}
+#game{
+    width: 80px;
+    height: 50px;
+    margin: 50px 20px;
+}
+#navy{
+    font-family: cursive;
+    text-align: center;
+}
+#navy1{
+    width: 100%;
+    height: 40px;
+}
+#full{
+    margin-top: 50px;
+}
+.check1{
+    border: 3px solid black;
+    width: 20%;
+    float: left;
+    height: 458px;
+    background-color:rgb(187, 18, 221);
+}
+#main-content-section{
+ width:60%;
+ margin: auto;
+
+}
+.post-img{
+    width: 221px;
+    height: 225px;
+}
+
+
+.check2{
+    border: 3px solid black;
+    width: 20%;
+    height: 458px;
+    float:right;
+    background-color: rgb(187, 18, 221);
+}
+#page-footer{
+    margin-top: 20px;
+    font-family: cursive;
+    background-color:cornflowerblue;
+}
