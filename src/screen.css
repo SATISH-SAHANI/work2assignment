@@ -39,7 +39,8 @@ header {
 }
 #main-content-section{
  width:60%;
- margin: auto;
+ margin-left: 222px;
+ margin-right: 222px;
 
 }
 .post-img{
